@@ -1,0 +1,1 @@
+Get-WMIObject –Class “Win32_BIOS” –Computer D5400-1047 | Select SerialNumber
